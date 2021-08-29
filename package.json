@@ -1,7 +1,7 @@
 {
   "name": "personal",
   "version": "0.0.0",
-  "homepage": "https://muharyman.github.io/personal",
+  "homepage": "https://muharyman.github.io/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
